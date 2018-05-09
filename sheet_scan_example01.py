@@ -6,7 +6,7 @@ import imutils
 import cv2 as cv
 
 
-# ANSWER_KEY = {0: 1, 1: 4, 2: 0, 3: 3, 4: 1}
+ANSWER_KEY_SCORE = {0: 1, 1: 4, 2: 0, 3: 3, 4: 1}
 
 
 ANSWER_KEY = {0: "A", 1: "B", 2: "C", 3: "D", 4: "E"}
@@ -41,6 +41,9 @@ list=sorted(cts,key=cv.contourArea,reverse=True)
 
 print("寻找轮廓的个数：",len(cts))
 cv.imshow("draw_contours",img)
+
+# 正确题的个数
+correct_count=0
 
 for c in list:
     # 周长，第1个参数是轮廓，第二个参数代表是否是闭环的图形
@@ -116,16 +119,39 @@ for c in list:
 
 
             bubble_rows=sorted(bubble_rows,key=lambda x: x[0],reverse=True)
+            # 选择的答案序号
+            choice_num=bubble_rows[0][1]
+            print("答案：{} 数据: {}".format(ANSWER_KEY.get(choice_num),bubble_rows))
 
-            print("答案：{} 数据: {}".format(ANSWER_KEY.get(bubble_rows[0][1]),bubble_rows))
 
-            cv.drawContours(ox_sheet, cnts[bubble_rows[0][1]], -1, (0,0,255), 2)
-            # print(bubble_rows)
-            # print("答案：{} 像素值: {}".format(bubble_rows))
+            fill_color=None
+
+            # 如果做对就加1
+            if ANSWER_KEY_SCORE.get(q) == choice_num:
+                fill_color = (0, 255, 0)   #正确 绿色
+                correct_count = correct_count+1
+            else:
+                fill_color = (0, 0, 255)   #错误 红色
+
+            cv.drawContours(ox_sheet, cnts[choice_num], -1, fill_color, 2)
+
 
 
         cv.imshow("answer_flagged", ox_sheet)
+
+        text1 = "total: " + str(len(ANSWER_KEY)) + ""
+
+        text2 = "right: " + str(correct_count)
+
+        text3 = "score: " + str(correct_count*1.0/len(ANSWER_KEY)*100)+""
+
+        font = cv.FONT_HERSHEY_SIMPLEX
+        cv.putText(ox_sheet, text1 + "  " + text2+"  "+text3, (10, 30), font, 0.5, (0, 0, 255), 2)
+
+        cv.imshow("score", ox_sheet)
+
         break
+
 
 
 

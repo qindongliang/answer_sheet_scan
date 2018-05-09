@@ -25,8 +25,13 @@
 
 ![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/05.png)
 
-（6）最终识别答案成功后的图
+（6）识别答案成功后的图
 
 ![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/06.png)
+
+（7）标记出做对和做错的图并计算得分
+
+![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/07.png)
+
 
 
