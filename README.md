@@ -10,3 +10,23 @@
 （1）原图
 
 ![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/t1.png)
+
+
+（2）灰度+高斯模糊后的图
+![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/02.png)
+
+（3）使用边缘检测后的图
+![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/03.png)
+
+（4）透视变换后提取指定答题区域的灰度图
+![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/04.png)
+
+（5）使用ostu的二值化后的图
+
+![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/05.png)
+
+（6）最终识别答案成功后的图
+
+![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/05.png)
+
+
