@@ -27,6 +27,6 @@
 
 （6）最终识别答案成功后的图
 
-![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/05.png)
+![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/06.png)
 
 
