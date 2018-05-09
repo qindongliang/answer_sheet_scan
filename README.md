@@ -3,7 +3,7 @@
 
 ##  例子01
 
-例子01是参考：[pyimagesearch](https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/)网站上一个识别例子，参考大神的源码，然后加上自己的理解后给核心代码加上了详细的中文注释，并在每一个关键阶段都会弹出具体的GUI窗体展示识别流程，这样便于大家更能详细的看到核心部分的细节，感兴趣的同学，可以自己在再尝试加一些更细部分的debug弹窗。
+例子01是参考：[pyimagesearch](https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/)网站上一个识别例子，参考大神的源码，先在本地运行成功之后，然后加上自己的理解，给大多数核心代码加上了详细的中文注释，并在每一个关键阶段都会弹出具体的GUI窗体展示识别流程，这样便于大家更能详细的看到核心部分的细节，感兴趣的同学，可以自己在再尝试加一些更细部分的debug弹窗。
 
 例子01的一些图片：
 
