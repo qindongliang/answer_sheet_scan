@@ -17,9 +17,11 @@
 ![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/02.jpg)
 
 （3）使用边缘检测后的图
+
 ![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/03.jpg)
 
 （4）透视变换后提取指定答题区域的灰度图
+
 ![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/example01/04.jpg)
 
 （5）使用ostu的二值化后的图
