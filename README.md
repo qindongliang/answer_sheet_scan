@@ -7,7 +7,7 @@
 
 [01案例-点我查看详细介绍](https://github.com/qindongliang/answer_sheet_scan/blob/master/readmes/example01.md)
 
-[02案例-点我查看详细介绍](https://github.com/qindongliang/answer_sheet_scan/blob/master/readmes/example01.md)
+[02案例-点我查看详细介绍](https://github.com/qindongliang/answer_sheet_scan/blob/master/readmes/example02.md)
 
 
 
