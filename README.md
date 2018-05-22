@@ -17,6 +17,8 @@
 
 ## 我的公众号(woshigcs)
 
+有问题可关注我的公众号留言咨询
+
 ![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/gcs.jpg)
 
-有问题可关注我的公众号留言咨询
+
