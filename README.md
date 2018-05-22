@@ -5,7 +5,7 @@
 
 ##  识别例子01
 
-[例子01](https://github.com/qindongliang/answer_sheet_scan/blob/master/readmes/example01.md)
+[01-点我查看详细介绍](https://github.com/qindongliang/answer_sheet_scan/blob/master/readmes/example01.md)
 
 ##  识别例子02
 
