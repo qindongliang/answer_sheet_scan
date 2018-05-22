@@ -45,6 +45,3 @@
 
 
 
-源码已经上传我的github上，欢迎大家fork。
-
-<https://github.com/qindongliang/answer_sheet_scan>
