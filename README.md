@@ -13,7 +13,19 @@
 
 ## 个人博客
 
+新的个人站点
+
 <http://8090nixi.com/>
+
+csdn
+
+<https://blog.csdn.net/u010454030>
+
+iteye（早期的博文都在这里面）
+
+<http://qindongliang.iteye.com/>
+
+
 
 ## 我的公众号(woshigcs)
 
