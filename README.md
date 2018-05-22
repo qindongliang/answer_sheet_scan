@@ -15,8 +15,6 @@
 
 （1）微信公众号（woshigcs）：同步更新
 
-![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/gcs.jpg)
-
 （2）个人站点(2018之后，同步更新） 
 
 <http://8090nixi.com/>
