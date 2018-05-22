@@ -11,17 +11,21 @@
 
 
 
-## 个人博客
+## 博客相关
 
-新的个人站点
+（1）微信公众号（woshigcs）：同步最新文章
+
+![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/gcs.jpg)
+
+（2）个人站点(2018之后)：同步最新 
 
 <http://8090nixi.com/>
 
-csdn
+（3）csdn (暂时同步最新)
 
 <https://blog.csdn.net/u010454030>
 
-iteye（早期的博文都在这里面）
+（4）iteye（2018.05月之前所有的文章，之后弃用）  
 
 <http://qindongliang.iteye.com/>
 
