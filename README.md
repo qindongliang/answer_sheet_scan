@@ -13,15 +13,15 @@
 
 ## 博客相关
 
-（1）微信公众号（woshigcs）：同步最新文章
+（1）微信公众号（woshigcs）：同步更新
 
 ![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/gcs.jpg)
 
-（2）个人站点(2018之后)：同步最新 
+（2）个人站点(2018之后，同步更新） 
 
 <http://8090nixi.com/>
 
-（3）csdn (暂时同步最新)
+（3）csdn ： (暂时同步更新)
 
 <https://blog.csdn.net/u010454030>
 
